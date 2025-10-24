@@ -1,7 +1,7 @@
 ![CI](https://github.com/Roland-Hufnagel/git-ci/actions/workflows/ci.yml/badge.svg)
 
 
-# I like Animals, don't I? (JS Unit Testing)
+# I like Animals, don't I? Yes (JS Unit Testing)
 
 This exercise offers first steps into the world of software testing. It's quite similar to the tests you have seen during the lecture, so don't be afraid ;)
 
