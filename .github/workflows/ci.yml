@@ -1,9 +1,9 @@
-name: Testing Workflow
+name: Testing Workflow 2
 
 on: [push]
 
 jobs:
-  build:
+  build-project-for-roland: 
     runs-on: ubuntu-latest
 
     steps:
